@@ -1,28 +1,28 @@
 *	name	Lingua Latina Novo Modo I, kapitel 1			
 *	card-theme	Sky - Rounded			
 Text 1	Text 2	Text 3	Text 4	Category 1	Extra Info
-imperium	rike, makt; befälsrätt	imperium, -i (n)	sv. Imperium, imperialism		
-Romanus	romersk	Romanus, -a, -um	sv. roman	adj	
-magnus	stor	magnus, -a, -um	sv. magnitud	adj	
-esse	att vara	sum, fui, esse (oreg)	fr. être, it. essere	verb	infinitive
-est	<color grey>(han/hon/den/det)</color> är	sum, fui, esse (oreg)	fr. être, it. essere	verb	
-sunt	<color grey>(de)</color> är	sum, fui, esse (oreg)	fr. être, it. essere	verb	
-imperator	kejsare	imperator, imperatoris (m)	eng. emperor		
-habere	att ha	habeo, habui, habitum (2)	eng. habitude	verb	infinitive
-habet	<color grey>(han/hon/den/det)</color> har	habeo, habui, habitum (2)		verb	
-tenere	att hålla; att inneha	teneo, tenui, - (2)		verb	infinitive
-tenet	<color grey>(han/hon/den/det)</color> innehar	teneo, tenui, - (2)		verb	
-multus	mången, många	multus, -a, -um	sv. multiplicera	adj	
-civitas	stat	civitas, civitatis (f)	sv. civil		
-externus	yttre, utländsk	externus, -a, -um	sv. extern	adj	
-vincere	att besegra	vinco, vici, victum (3a)	sv. Viktor, eng. victory	verb	infinitive
-vincit	<color grey>(han/hon/den/det)</color> besegrar	vinco, vici, victum (3a)		verb	
-victus	besegrad	victus, -a, -um			
+imperium, -i (n)	rike, makt; befälsrätt	sv. Imperium, imperialism			
+Romanus, -a, -um	romersk	sv. roman		adj	
+magnus, -a, -um	stor	sv. magnitud		adj	
+esse	att vara	fr. être, it. essere	sum, fui, esse (oreg)	verb	infinitive
+est	<color grey>(han/hon/den/det)</color> är	fr. être, it. essere	sum, fui, esse (oreg)	verb	
+sunt	<color grey>(de)</color> är	fr. être, it. essere	sum, fui, esse (oreg)	verb	
+imperator, imperatoris (m)	kejsare	eng. emperor			
+habere	att ha	eng. habitude	habeo, habui, habitum (2)	verb	infinitive
+habet	<color grey>(han/hon/den/det)</color> har		habeo, habui, habitum (2)	verb	
+tenere	att hålla; att inneha		teneo, tenui, - (2)	verb	infinitive
+tenet	<color grey>(han/hon/den/det)</color> innehar		teneo, tenui, - (2)	verb	
+multus, -a, -um	mången, många	sv. multiplicera		adj	
+civitas, civitatis (f)	stat	sv. civil			
+externus, -a, -um	yttre, utländsk	sv. extern		adj	
+vincere	att besegra	sv. Viktor, eng. victory	vinco, vici, victum (3a)	verb	infinitive
+vincit	<color grey>(han/hon/den/det)</color> besegrar		vinco, vici, victum (3a)	verb	
+victus, -a, -um	besegrad				
 saepe	ofta			adv	
-provincia	provins	Provincia, -ae (f)	sv. provinsiell		
-deveniunt	<color grey>(de)</color> övergick till att bli	devenio, -veni, -ventum (4)	eng. devent	verb	
-Gallia	Gallien	Gallia, -ae			
-Africa	Afrika	Africa, -ae			
-Germanus	german	Germanus, -i	sv. germansk, eng. Germany		
-hostis	fiende	hostis, hostis (m/f)	eng. hostile		
-dicit	<color grey>(han/hon/den/det)</color> säger	dico, dixi, dictum (3a)	sv. edikt, diktera	verb	
+Provincia, -ae (f)	provins	sv. provinsiell			
+deveniunt	<color grey>(de)</color> övergick till att bli	eng. devent	devenio, -veni, -ventum (4)	verb	
+Gallia, -ae	Gallien				
+Africa, -ae	Afrika				
+Germanus, -i	german	sv. germansk, eng. Germany			
+hostis, hostis (m/f)	fiende	eng. hostile			
+dicit	<color grey>(han/hon/den/det)</color> säger	sv. edikt, diktera	dico, dixi, dictum (3a)	verb	
