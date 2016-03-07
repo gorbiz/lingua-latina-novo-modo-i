@@ -4,7 +4,7 @@
   "description": "Flashcards for the textbook: Lingua Latina Novo Modo I",
   "main": "index.js",
   "scripts": {
-    "build": "ls *.tsv | xargs -i ./reformat {} {}.txt"
+    "build": "ls *.tsv | xargs -i ./reformat {} txt"
   },
   "repository": {
     "type": "git",
