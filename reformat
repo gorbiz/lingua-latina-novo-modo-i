@@ -9,9 +9,11 @@ function reformat(data, cb) {
 
   csv.parse(lines.join('\n'), { delimiter: '\t', columns: columns }, function(err, data) {
     var data = data.map(function(r) {
-      r['Text 3'] += '<br><br><size 0.75>' + r['Text 4'] + '</size>';
-      r['Sound 3'] = r['Sound 4']
+      r['Text 2'] += '<br><br>' + r['Text 3'] + '<br><br><size 0.75>' + r['Text 4'] + '</size>';
+      delete r['Text 3'];
       delete r['Text 4'];
+
+      r['Sound 2'] = r['Sound 4']
       delete r['Sound 4'];
       return r;
     });
