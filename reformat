@@ -1,0 +1,40 @@
+#!/usr/bin/env node
+
+function reformat(data, cb) {
+  var csv = require('csv');
+  var lines = data.split(/\r?\n/)
+    , headers = []
+  while (lines[0][0] == '*') headers.push(lines.shift());
+  var columns = lines.shift().split('\t');
+
+  csv.parse(lines.join('\n'), { delimiter: '\t', columns: columns }, function(err, data) {
+    var data = data.map(function(r) {
+      r['Text 3'] += '<br><br><size 0.75>' + r['Text 4'] + '</size>';
+      r['Sound 3'] = r['Sound 4']
+      delete r['Text 4'];
+      delete r['Sound 4'];
+      return r;
+    });
+
+    var out = headers.join('\n') + '\n';
+    out += Object.keys(data[0]).join('\t') + '\n'; // column names
+    data.map(function(r) {
+      out += Object.keys(r).map(function(k) { return r[k]; }).join('\t') + '\n';
+    });
+    return cb(out);
+  });
+}
+
+if (process.argv.length > 2) {
+  var fs = require('fs');
+  var filename = process.argv[2]
+  reformat(fs.readFileSync(filename, 'utf-8'), function(out) {
+    if (process.argv.length > 3) fs.writeFileSync(process.argv[3], out);
+    else process.stdout.write(out);
+  });
+} else {
+  var data = '';
+  var stdin = process.openStdin();
+  stdin.on('data', function(chunk) { data += chunk; });
+  stdin.on('end', function() { reformat(data); });
+}

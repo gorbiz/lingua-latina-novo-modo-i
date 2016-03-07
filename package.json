@@ -1,0 +1,22 @@
+{
+  "name": "lingua-latina-novo-modo-i",
+  "version": "0.1.0",
+  "description": "Flashcards for the textbook: Lingua Latina Novo Modo I",
+  "main": "index.js",
+  "scripts": {
+    "build": "ls *.tsv | xargs -i ./reformat {} {}.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorbiz/lingua-latina-novo-modo-i.git"
+  },
+  "author": "Karl Svartholm <gorbiz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorbiz/lingua-latina-novo-modo-i/issues"
+  },
+  "homepage": "https://github.com/gorbiz/lingua-latina-novo-modo-i#readme",
+  "devDependencies": {
+    "csv": "^0.4.6"
+  }
+}
