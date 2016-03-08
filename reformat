@@ -2,6 +2,7 @@
 
 function reformat(data, cb) {
   var csv = require('csv');
+  data = data.replace(/^\s*[\r\n]$/gm, '');
   var lines = data.split(/\r?\n/)
     , headers = []
   while (lines[0][0] == '*') headers.push(lines.shift());
