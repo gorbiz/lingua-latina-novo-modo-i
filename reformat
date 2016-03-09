@@ -37,8 +37,7 @@ function reformat(data, cb) {
 
 if (process.argv.length > 2) {
   var fs = require('fs');
-  var filename = process.argv[2]
-  reformat(fs.readFileSync(filename, 'utf-8'), function(out) {
+  reformat(fs.readFileSync(process.argv[2], 'utf-8'), function(out) {
     if (process.argv.length == 3) return process.stdout.write(out);
     fs.writeFileSync(process.argv[3], out);
   });
