@@ -31,6 +31,10 @@ Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glos
 Det går att ställa in i appen, men blir det bra nog?  
 Kanske behöver vi generera separata uppsättningar.
 
+## Hittat fel / har du förslag?
+[Skapa ett GitHub konto](https://github.com/join)  
+& editera `.tsv` filerna (ex: [filen](https://github.com/gorbiz/lingua-latina-novo-modo-i/blob/master/01.tsv) för Prima pars) & skicka förslagsförändringar!
+
 ## Utveckla / ändra & generera nya Flashcards
 
 1. Clone repository & do `npm install`.
