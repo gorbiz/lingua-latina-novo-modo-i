@@ -1,4 +1,4 @@
-# lingua-latina-novo-modo-i
+# Flashcards → Lingua Latina Novo Modo I
 [Flashcards Delux](http://flashcardsdeluxe.com/) till Lingua Latina Novo Modo I.
 
 To make changes:
