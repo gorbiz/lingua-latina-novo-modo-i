@@ -1,0 +1,81 @@
+*	name	Lingua Latina Novo Modo I, kapitel 2						
+*	card-theme	Sky - Rounded						
+Text 1	Text 2	Text 3	Text 4	Category 1	Category 2	Extra Info	Sound 4	Ignore
+Verso Vulgata	Den allmänna översättningen							yes
+evangelium, -i (n)	glädjebudskap; evangelium (grekiskt låneord)							yes
+secundum	efter; enligt			prep				yes
+videō, vīdī, vīsum (2)	se	sv. video		verb			La-cls-video.aac	
+turba, -ae (f)	hop, folkmassa	sv. turbulent					La-cls-turba.aac	
+beātus, -a, -um	salig, lycklig	eng. beatitudes		adj			La-cls-beatus.aac	
+pauper, pauperis	fattig	eng. poor, fr. pauvre		adj				
+spīritus, -ūs (m)	ande; andetag	eng. spirit						
+spīritū	i anden, i fråga om anden (abl. lim.)							yes
+quoniam	ty, eftersom			konj				
+caelum, -ī (n)	himmel	sv. celest, eng. celing					La-cls-caelum.aac	
+mītis, mīte	mild	eng. mitigate		adj				
+possideō, possēdī, possessum (2)	äga	eng. possess		verb				
+possidēbunt	(de) kommer att äga		possideō (2) fut.simpl. akt 3 pl	verb	future			
+lūgeō, lūxī, - (3)	sörja			verb				yes
+cōnsōlō (1)	trösta		medeltidslatin. I klassiskt latin: consolor, dep.	verb				yes
+consōlābuntur	(de) kommer att tröstas		cōnsōlō (1) fut.simpl. akt 3 pl	verb	future			yes
+ēsuriō (4)	hungra			verb				yes
+sitiō (4)	törsta			verb				yes
+iūstitia, -ae (f)	rättvisa		justitia: efterklassisk stavning					
+saturō (1)	mätta			verb				yes
+saturābantur	(de) kommer att mättas		saturō (1) fut.simpl. akt 3 pl	verb	future			yes
+misericors, misericordis	barmhärtig, medlidsam			adj				yes
+misericordia, -ae (f)	barmhärtighet, medlidande						La-cls-misericordia.aac	
+cōnsequēntur	(de) kommer att erhålla		cōnsequor (3 dep) fut.simpl. akt 3 pl	verb	future			
+mundus, -a, -um	ren, prydlig		Inte att förvirra med subst. mundus, -ī = värld	adj				
+cor, cordis (n)	hjärta	sv. kordial						
+mundo corde	med rent hjärta (abl. qual.)							yes
+vidēbunt	(de) kommer att se		videō (2) fut.simpl. akt 3 pl	verb	future			
+pācificus, -a, -um	fredlig, fredsmäklande							yes
+vocō (1)	kalla	sv. vokal, vokabulär		verb			La-cls-voco.aac	
+vocābuntur	(de) kommer att kallas		vocō (1) fut.simpl. akt 3 pl	verb	future			
+persecūtiō, persecūtiōnis  (f)	förföljelse							yes
+propter	på grund av		styr kasus ackusativ	prep			La-cls-propter.aac	
+								
+fructus, -ūs (m)	frukt	sv. frukt						
+manus, -ūs (f)	hand	sv. manuell					La-cls-manus.aac	
+domus, -ūs (f)	hus	sv. domesticera						
+cornū, -ūs (n)	horn, flygel						La-cls-cornu.aac	
+aditus, -ūs (m)	tillträde, ingång							
+exitus, -ūs (m)	utgång	eng. exit						
+adventus, -ūs (m)	ankomst	sv. advent						
+aestus, -ūs (m)	hetta, glöd; bränning							
+arcus, -ūs (m)	båge	eng. arch						
+cāsus, -ūs (m)	fall; händelse, äventyr	sv. kasus, eng. case						
+cōnspectus, -ūs (m)	åsyn							
+currus, -ūs (m)	vagn							
+cursus, -ūs (m)	lopp	sv. kurs						
+exercitus, -ūs (m)	här, armé	sv. exercis						
+fluctus, -ūs (m)	våg	sv. fluktuera						
+genu, genus (n)	knä	it. ginocchio					La-cls-genu.aac	
+gradus, -ūs (m)	steg, march	sv. grad						
+habitus, -ūs (m)	(kroppens) tillstånd; utseende							
+ictius, -ūs (m)	slag							
+impetus, -ūs (m)	anfall							
+luctus, -ūs (m)	sorg							
+metus, -ūs (m)	fruktan							
+passus, -ūs (m)	steg	sv. passera						
+portus, -ūs (m)	hamn	eng. port						
+pōtus, -ūs (m)	dryck						La-cls-potus.aac	
+saltus, -ūs (m)	skogstrakt, bergstrakt, ravin							
+senātus, -ūs (m)	senat	sv. senat						
+sēnsus, -ūs (m)	förnimmelse, förstånd	sv. sensibel						
+sinus, -ūs (m)	båge, havsbukt;bröstveck, famn							
+situs, -ūs (m)	läge	sv. situera						
+sonitus, -ūs (m)	ljud, buller	eng. sound						
+status, -ūs (m)	tillstånd, läge	sv. status						
+tumultus, -ūs (m)	oro, tumult	sv. tumult						
+versus, -ūs (m)	versrad	sv. vers						
+vultus, -ūs (m)	blick, ansikte							
+								
+diēs, diēī (m/f)	dag / utsatt dag, förfallodag							
+rēs, reī (f)	sak	sv. rebus						
+fidēs, fideī (f)	trofasthet; förtröstan	eng. fidelity						
+aciēs, aciēī (f)	egg, skärpa; slaglinje						La-ecc-acies.aac	
+faciēs, faciēī (f)	yttre gestalt, skepnad; ansikte	eng. face						
+speciēs, speciēī (f)	utseende; åsyn	eng. specimen				eng. species	La-cls-species.aac	
+spēs, speī (f)	hopp	it. sperare						
