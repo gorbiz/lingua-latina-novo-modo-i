@@ -43,7 +43,7 @@ if (process.argv.length > 2) {
   });
 } else {
   var data = '';
-  var stdin = process.openStdin();
-  stdin.on('data', function(chunk) { data += chunk; });
-  stdin.on('end', function() { reformat(data); });
+  process.openStdin()
+    .on('data', function(chunk) { data += chunk; })
+    .on('end',  function()      { reformat(data, console.log); });
 }
