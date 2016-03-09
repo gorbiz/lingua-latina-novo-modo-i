@@ -1,6 +1,11 @@
 # Flashcards → Lingua Latina Novo Modo I
 Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glosor rakt ur läroboken *Lingua Latina Novo Modo I* av [Sara Ehrling](http://sprak.gu.se/english/about-the-department/staff?userId=xehrsa).
 
+
+<img alt="Latinska sidan" width="240" src="https://cloud.githubusercontent.com/assets/207850/13633532/fbf60c1c-e5ef-11e5-85b2-e94f5b4e2bbb.png" />
+<img alt="Svenska sidan" width="240" src="https://cloud.githubusercontent.com/assets/207850/13633533/fc0e4e58-e5ef-11e5-954f-2c3705ff4f89.png" />  
+*Exempel på ett kort/Flashcard (ett av de få med röstinspelning från Wiktionary, notera playknappen).*
+
 ## Var & hur?
 
 1. Installera: <img src="http://orangeorapple.com/Flashcards/images/WebIcon70.png" width="24" /> *Flashcards Deluxe* på din [:iphone: iPhone|pad](https://itunes.apple.com/us/app/flashcards-deluxe/id307840670?mt=8) / [Android](https://play.google.com/store/apps/details?id=com.orangeorapple.flashcards) (den kostar ~ :moneybag: x 3)
@@ -8,6 +13,8 @@ Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glos
 3. Sök efter "novo modo" & du bör finna dem.
 
 ## Vad är klart?
+
+### Latin → Svenska
 
  - [x] Prima pars: 100%
  - [x] Secunda pars: 100%
@@ -19,6 +26,10 @@ Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glos
  - [ ] Octava pars: 0%
  - [ ] Nona pars: 0%
  - [x] Decima pars: 100%
+
+### Svenska → Latin
+Det går att ställa in i appen, men blir det bra nog?  
+Kanske behöver vi generera separata uppsättningar.
 
 ## Utveckla / ändra & generera nya Flashcards
 
