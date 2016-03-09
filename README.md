@@ -1,5 +1,5 @@
 # Flashcards → Lingua Latina Novo Modo I
-[Flashcards Delux](http://flashcardsdeluxe.com/) till Lingua Latina Novo Modo I.
+[Flashcards Delux](http://flashcardsdeluxe.com/) for Lingua Latina Novo Modo I (a Latin textbook by [Sara Ehrling](http://sprak.gu.se/english/about-the-department/staff?userId=xehrsa)).
 
 To make changes:
 
