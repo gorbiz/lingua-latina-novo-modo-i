@@ -40,9 +40,7 @@ if (process.argv.length > 2) {
   var filename = process.argv[2]
   reformat(fs.readFileSync(filename, 'utf-8'), function(out) {
     if (process.argv.length == 3) return process.stdout.write(out);
-    var outfile = process.argv[3];
-    if (outfile == 'txt') outfile = filename.replace(/\.[^/.]+$/, "") + '.txt'
-    fs.writeFileSync(outfile, out);
+    fs.writeFileSync(process.argv[3], out);
   });
 } else {
   var data = '';
