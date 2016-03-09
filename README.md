@@ -3,7 +3,7 @@ Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glos
 
 ## Var & hur?
 
-1. Installera: <img src="http://orangeorapple.com/Flashcards/images/WebIcon70.png" width="24" /> *Flashcards Deluxe* på din [:iphone: iPhone|pad](https://itunes.apple.com/us/app/flashcards-deluxe/id307840670?mt=8) / [Android](https://play.google.com/store/apps/details?id=com.orangeorapple.flashcards) (Ja, den kostar :moneybag: x 3)
+1. Installera: <img src="http://orangeorapple.com/Flashcards/images/WebIcon70.png" width="24" /> *Flashcards Deluxe* på din [:iphone: iPhone|pad](https://itunes.apple.com/us/app/flashcards-deluxe/id307840670?mt=8) / [Android](https://play.google.com/store/apps/details?id=com.orangeorapple.flashcards) (den kostar ~ :moneybag: x 3)
 2. I appen: *Add Deck* (+) > *Shared Library* > *Search*.
 3. Sök efter "novo modo" & du bör finna dem.
 
