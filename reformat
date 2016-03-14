@@ -9,6 +9,7 @@ function reformat(data, cb) {
   var columns = lines.shift().split('\t');
 
   csv.parse(lines.join('\n'), { delimiter: '\t', columns: columns }, function(err, data) {
+    if (err) throw err;
     data = data.filter(function(r) { return r['Ignore'] != 'yes'; });
     data = data.map(function(r) {
       r['Text 2'] = r['Text 2'].replace(/^\(han\/hon\/den\/det\)/, '<color grey>(han/hon/den/det)</color>');
