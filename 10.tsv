@@ -5,9 +5,9 @@ Verso Vulgata	Den allmänna översättningen							yes
 evangelium, -i (n)	glädjebudskap; evangelium (grekiskt låneord)							yes
 secundum	efter; enligt			prep				yes
 videō, vīdī, vīsum (2)	se	sv. video		verb			La-cls-video.aac	
-turba, -ae (f)	hop, folkmassa	sv. turbulent					La-cls-turba.aac	
+turba, -ae (f)	hop, folkmassa, oordning, trängsel	sv. turbulent					La-cls-turba.aac	
 beātus, -a, -um	salig, lycklig	eng. beatitudes		adj			La-cls-beatus.aac	
-pauper, pauperis	fattig	eng. poor, fr. pauvre		adj				
+pauper, pauperis	fattig	eng. pauper, poor; fr. pauvre		adj				
 spīritus, -ūs (m)	ande; andetag	eng. spirit						
 spīritū	i anden, i fråga om anden (abl. lim.)							yes
 quoniam	ty, eftersom			konj				
@@ -34,11 +34,11 @@ pācificus, -a, -um	fredlig, fredsmäklande							yes
 vocō (1)	kalla	sv. vokal, vokabulär		verb			La-cls-voco.aac	
 vocābuntur	(de) kommer att kallas		vocō (1) fut.simpl. akt 3 pl	verb	future			
 persecūtiō, persecūtiōnis  (f)	förföljelse							yes
-propter	på grund av		styr kasus ackusativ	prep			La-cls-propter.aac	
+propter	nära, på grund av		styr kasus ackusativ	prep		f. prope (=nära m.m.) som också ger oss proximity	La-cls-propter.aac	
 								
 fructus, -ūs (m)	frukt	sv. frukt						
 manus, -ūs (f)	hand	sv. manuell					La-cls-manus.aac	
-domus, -ūs (f)	hus	sv. domesticera						
+domus, -ūs (f)	hus	sv. domesticera, dom(kyrka)	eng. dome					
 cornū, -ūs (n)	horn, flygel						La-cls-cornu.aac	
 aditus, -ūs (m)	tillträde, ingång							
 exitus, -ūs (m)	utgång	eng. exit						
@@ -64,7 +64,7 @@ pōtus, -ūs (m)	dryck						La-cls-potus.aac
 saltus, -ūs (m)	skogstrakt, bergstrakt, ravin							
 senātus, -ūs (m)	senat	sv. senat						
 sēnsus, -ūs (m)	förnimmelse, förstånd	sv. sensibel						
-sinus, -ūs (m)	båge, havsbukt;bröstveck, famn							
+sinus, -ūs (m)	båge, havsbukt; bröstveck, famn							
 situs, -ūs (m)	läge	sv. situera						
 sonitus, -ūs (m)	ljud, buller	eng. sound						
 status, -ūs (m)	tillstånd, läge	sv. status						
