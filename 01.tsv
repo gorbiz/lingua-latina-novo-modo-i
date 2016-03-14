@@ -4,9 +4,9 @@ Text 1	Text 2	Text 3	Text 4	Category 1	Extra Info	Sound 4
 imperium, -i (n)	rike, makt; befälsrätt	sv. Imperium, imperialism				
 Rōmānus, -a, -um	romersk	sv. roman		adj		La-cls-romanus.aac
 magnus, -a, -um	stor	sv. magnitud		adj		La-cls-magnus.aac
-esse	att vara	fr. être, it. essere	sum, fui, esse (oreg)	verb	infinitive	
-est	(han/hon/den/det) är	fr. être, it. essere	sum, fui, esse (oreg)	verb		
-sunt	(de) är	fr. être, it. essere	sum, fui, esse (oreg)	verb		
+esse	att vara	fr. être; it. essere	sum, fui, esse (oreg)	verb	infinitive	
+est	(han/hon/den/det) är	fr. être; it. essere	sum, fui, esse (oreg)	verb		
+sunt	(de) är	fr. être; it. essere	sum, fui, esse (oreg)	verb		
 imperātor, imperātōris (m)	kejsare	eng. emperor				
 habēre	att ha	eng. habitude	habeō, habuī, habitum (2)	verb	infinitive	La-cls-habeo.aac
 habet	(han/hon/den/det) har		habeō, habuī, habitum (2)	verb		
@@ -15,7 +15,7 @@ tenet	(han/hon/den/det) innehar		teneō, tenuī, - (2)	verb
 multus, -a, -um	mången, många	sv. multiplicera		adj		La-cls-multus.aac
 cīvitās, cīvitātis (f)	stat	sv. civil				
 externus, -a, -um	yttre, utländsk	sv. extern		adj		
-vincere	att besegra	sv. Viktor, eng. victory	vinco, vīcī, victum (3a)	verb	infinitive	
+vincere	att besegra	sv. Viktor; eng. victory	vinco, vīcī, victum (3a)	verb	infinitive	
 vincit	(han/hon/den/det) besegrar		vinco, vīcī, victum (3a)	verb		
 victus, -a, -um	besegrad					
 saepe	ofta			adv		
@@ -23,7 +23,7 @@ prōvincia, -ae (f)	provins	sv. provinsiell
 dēveniunt	(de) övergår till att bli	eng. devent	dēveniō, -vēnī, -ventum (4)	verb		
 Gallia, -ae	Gallien					
 Āfrica, -ae	Afrika					La-cls-Africa.aac
-Germānus, -i	german	sv. germansk, eng. Germany				
+Germānus, -i	german	sv. germansk; eng. Germany				
 hostis, hostis (m/f)	fiende	eng. hostile				
 dīcit	(han/hon/den/det) säger	sv. edikt, diktera	dīcō, dīxī, dictum (3a)	verb		
 amāre	älska		amō, amāvī, amātum (1)	verb		La-cls-amo.aac
