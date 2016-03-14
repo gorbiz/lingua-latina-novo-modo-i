@@ -1,5 +1,5 @@
-# Flashcards → Lingua Latina Novo Modo I
-Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glosor rakt ur läroboken *Lingua Latina Novo Modo I* av [Sara Ehrling](http://sprak.gu.se/english/about-the-department/staff?userId=xehrsa).
+# Flashcards → Lingua Latina Novo Modo
+Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glosor rakt ur läroböckerna *Lingua Latina Novo Modo I* och *II* av [Sara Ehrling](http://sprak.gu.se/english/about-the-department/staff?userId=xehrsa).
 
 
 <img alt="Latinska sidan" width="240" src="https://cloud.githubusercontent.com/assets/207850/13633532/fbf60c1c-e5ef-11e5-85b2-e94f5b4e2bbb.png" />
@@ -15,7 +15,6 @@ Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glos
 ## Vad är klart?
 
 ### Latin → Svenska
-
  - [x] Prima pars: 100%
  - [x] Secunda pars: 100%
  - [ ] Tertia pars: 0%
@@ -26,6 +25,9 @@ Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glos
  - [ ] Octava pars: 0%
  - [ ] Nona pars: 0%
  - [x] Decima pars: 100%
+
+ - [ ] Undecima pars (bok II): 0%
+ - [ ] Resten av bok II: 0%
 
 ### Svenska → Latin
 Det går att ställa in i appen, men blir det bra nog?  
