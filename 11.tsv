@@ -1,66 +1,66 @@
-*	name	Lingua Latina Novo Modo, kapitel 11					
-*	card-theme	Sky - Rounded					
-Text 1	Text 2	Text 3	Text 4	Category 1	Extra Info	Sound 4	Ignore
-vulgāris, -e	allmän, folklig	sv. vulgär				La-cls-vulgaris.aac	yes
-locūtiō, locūtiōnis (f)	tal, uttryckssätt	eng. locution					yes
-īnfāns, īnfantis (m/f)	spädbarn, småbarn; icke talande	sv. infantil; eng. infant					yes
-for, fātus sum	tala		1 dep	verb			yes
-assuēfio, ...	vänjas/vänja sig vid		följs av ablativ. efterklassiskt, se klasisk: assuētus & adsuēscō				yes
-fio, fātus sum	bliva, ske, göras	sv. fiat	1 dep	verb			
-assuētus, -a, -um	van vid; vanlig			adj			
-assistō, -stitī, - (3)	stå bredvid; hjälpa, bistå	sv. assistera		verb			yes
-cum (temporal konj.)	då; när			konj		La-cls-cum.aac	
-prīmitus	först			adv		La-cls-primus.aac	yes
-distinguō, -stinxī, -stincum	urskilja	sv. distinkt; eng. distinguish		verb			yes
-vōx, vōcis (f)	röst, ljud; ord				san. वाच् (vā́c)	La-cls-vox.aac	
-vel (disjunktiv partikel)	eller				matematik, logik: ∨ = disjunktion (ex. A∨B)		
-brevis, -e	kort	sv. brev		adj	eng. brief	La-cls-brevis.aac	
-possum, potuī, posse	kunna	sv. potens	oreg., jfr. esse	verb	eng. power	La-cls-possum.aac	
-asserō, -serui, -sertum	bedöma som; anse						yes
-rēgula, -ae (f)	regel; rak ribba, linjal	sv. regel					yes
-nūtrīx, nūtrīcis (f)	uppfostran; amma						yes
-							
-inde	där-/härifrån; där-/härefter	fr. en		adv			
-secundārius, -a, -um	andra; som hör till den andra klassen	sv. sekundär		adj			yes
-nōs	vi	fr. nous; sp. nos					
-nobis	för oss		dativ av nos (vi)				
-grammaticus, -a, -um	språkvetenskapligt, grammatiskt	sv. grammatik					yes
-vocāvērunt	kallade		3 plur perf av vocō (kalla)				yes
-ad habitum vērō huius paucī perveniunt	övers. “få kommer till att ha detta”						yes
-habitum	att ha		supinum av habeō (ha)				yes
-paucus, -a, -um	knapp; få	eng. paucity; sp. poco		adj			
-perveniō, -vēnī, -ventum	komma fram						
-quia	därför att, emedan			konj			
-nisi	om inte; utom, annat än		f. nī ‎(“not”) +‎ sī ‎(“if”).	konj / partikel			
-per	genom	sv. per (ex. 1 liter per mil)		prep			
-spatium, -ī (n)	utrymme	sv. spatiös; eng. space					
-tempus, tempŏris (n)	tid	sv. tempus, temporal				La-cls-tempus.aac	
-studium, -ī (n)	iver; ansträngning; studium	sv. studium, studera					
-assiduitās, assiduitātis (f)	ständig närvaro; uthållighet, flit	eng. assiduous					yes
-rēgulō (1)	träna		efterklassiskt				yes
-doctrīna	öva	sv. doktrin, dokument					yes
-							
-duo, duae, duo	två	sv. duo		räkneord	hi. दो ‎(do)	La-cls-duo.aac	
-nōbilis, -e	väl ansedd; ädel; förnämlig	sv. nobel		adj			
-tum... tum... tum...	här: såväl... som... som		I klassiskt latin brukar “såväl... som” uttryckas genom kombinationen “tum... cum”	adj		La-cls-tum.aac	yes
-fuit	(det) var		3 sing perf av sum, fui esse				
-hūmānus, -a, -um	mänsklig	sv. human, humanist				La-cls-humanus.aac	
-genus, generis (n)	sort, slag, släkte	sv. genus, genre, genetisk, genitalia, generation; eng. genesis, gentile, gentleman, degenerate					
-ūsitātus, -a, -um	vanlig, bruklig			adj			yes
-tōtus, -a, -um	hel;all	sv. total; fr. tout		adj			
-orbis, orbis (m)	värld; krets	eng. orb, orbit					
-perfruor, -fructus sum	njuta av		(3 dep), följs av ablativ				yes
-licet	låt vara att; även om		även som opersonligt uttryck = “det står fritt; de är möjligt/tillåtet” & följs då vanligen av satsförkortningen “ackusativ med infinitiv”				
-dīversus, -a, -um	olika; vänd åt olika håll	sv. diverse; eng. diverse		adj			
-prōlātiō, prōlātiōnis (f)	framförande, yttrande						yes
-vocābulum, -ī (n)	ord, glosa	sv. vokabulär					yes
-sit	den/det är		presens konjunktiv av est (den/det är)				yes
-dīvīsus, -a, -um	delad/delat		perfekt particip av dīvidō (dela)				yes
-nātūrālis, -e	naturlig	sv. naturlig					yes
-cum	med						yes
-ille, illa, illud	det där; det längre bort		här: refereras till locūtiō grammatica			La-cls-ille.aac	
-potius	snarare; hellre			adv	adv. komp		
-artificiālis, -e	konstgjord; icke på naturlig väg	sv. artificiell		adj	efterklassisk		yes
-existō, -stitī, - (3)	framträda; dyka upp	sv. existera					
-intentiō, intentiōnis (f)	avsikt	sv. intention					
-pertractō (1)	behandla; undersöka						
+*	name	Lingua Latina Novo Modo, kapitel 11						
+*	card-theme	Sky - Rounded						
+Text 1	Text 2	Text 3	Text 4	Category 1	Extra Info	Sound 4	Ignore	Category 3
+vulgāris, -e	allmän, folklig	sv. vulgär				La-cls-vulgaris.aac	yes	Text 1
+locūtiō, locūtiōnis (f)	tal, uttryckssätt	eng. locution					yes	Text 1
+īnfāns, īnfantis (m/f)	spädbarn, småbarn; icke talande	sv. infantil; eng. infant					yes	Text 1
+for, fātus sum	tala		1 dep	verb			yes	Text 1
+assuēfio, ...	vänjas/vänja sig vid		följs av ablativ. efterklassiskt, se klasisk: assuētus & adsuēscō				yes	Text 1
+fio, fātus sum	bliva, ske, göras	sv. fiat	1 dep	verb				Text 1
+assuētus, -a, -um	van vid; vanlig			adj				Text 1
+assistō, -stitī, - (3)	stå bredvid; hjälpa, bistå	sv. assistera		verb			yes	Text 1
+cum (temporal konj.)	då; när			konj		La-cls-cum.aac		Text 1
+prīmitus	först			adv		La-cls-primus.aac	yes	Text 1
+distinguō, -stinxī, -stincum	urskilja	sv. distinkt; eng. distinguish		verb			yes	Text 1
+vōx, vōcis (f)	röst, ljud; ord				san. वाच् (vā́c)	La-cls-vox.aac		Text 1
+vel (disjunktiv partikel)	eller				matematik, logik: ∨ = disjunktion (ex. A∨B)			Text 1
+brevis, -e	kort	sv. brev		adj	eng. brief	La-cls-brevis.aac		Text 1
+possum, potuī, posse	kunna	sv. potens	oreg., jfr. esse	verb	eng. power	La-cls-possum.aac		Text 1
+asserō, -serui, -sertum	bedöma som; anse						yes	Text 1
+rēgula, -ae (f)	regel; rak ribba, linjal	sv. regel					yes	Text 1
+nūtrīx, nūtrīcis (f)	uppfostran; amma						yes	Text 1
+								
+inde	där-/härifrån; där-/härefter	fr. en		adv				Text 2
+secundārius, -a, -um	andra; som hör till den andra klassen	sv. sekundär		adj			yes	Text 2
+nōs	vi	fr. nous; sp. nos						Text 2
+nobis	för oss		dativ av nos (vi)					Text 2
+grammaticus, -a, -um	språkvetenskapligt, grammatiskt	sv. grammatik					yes	Text 2
+vocāvērunt	kallade		3 plur perf av vocō (kalla)				yes	Text 2
+ad habitum vērō huius paucī perveniunt	övers. “få kommer till att ha detta”						yes	Text 2
+habitum	att ha		supinum av habeō (ha)				yes	Text 2
+paucus, -a, -um	knapp; få	eng. paucity; sp. poco		adj				Text 2
+perveniō, -vēnī, -ventum	komma fram							Text 2
+quia	därför att, emedan			konj				Text 2
+nisi	om inte; utom, annat än		f. nī ‎(“not”) +‎ sī ‎(“if”).	konj / partikel				Text 2
+per	genom	sv. per (ex. 1 liter per mil)		prep				Text 2
+spatium, -ī (n)	utrymme	sv. spatiös; eng. space						Text 2
+tempus, tempŏris (n)	tid	sv. tempus, temporal				La-cls-tempus.aac		Text 2
+studium, -ī (n)	iver; ansträngning; studium	sv. studium, studera						Text 2
+assiduitās, assiduitātis (f)	ständig närvaro; uthållighet, flit	eng. assiduous					yes	Text 2
+rēgulō (1)	träna		efterklassiskt				yes	Text 2
+doctrīna	öva	sv. doktrin, dokument					yes	Text 2
+								
+duo, duae, duo	två	sv. duo		räkneord	hi. दो ‎(do)	La-cls-duo.aac		Text 3
+nōbilis, -e	väl ansedd; ädel; förnämlig	sv. nobel		adj				Text 3
+tum... tum... tum...	här: såväl... som... som		I klassiskt latin brukar “såväl... som” uttryckas genom kombinationen “tum... cum”	adj		La-cls-tum.aac	yes	Text 3
+fuit	(det) var		3 sing perf av sum, fui esse					Text 3
+hūmānus, -a, -um	mänsklig	sv. human, humanist				La-cls-humanus.aac		Text 3
+genus, generis (n)	sort, slag, släkte	sv. genus, genre, genetisk, genitalia, generation; eng. genesis, gentile, gentleman, degenerate						Text 3
+ūsitātus, -a, -um	vanlig, bruklig			adj			yes	Text 3
+tōtus, -a, -um	hel;all	sv. total; fr. tout		adj				Text 3
+orbis, orbis (m)	värld; krets	eng. orb, orbit						Text 3
+perfruor, -fructus sum	njuta av		(3 dep), följs av ablativ				yes	Text 3
+licet	låt vara att; även om		även som opersonligt uttryck = “det står fritt; de är möjligt/tillåtet” & följs då vanligen av satsförkortningen “ackusativ med infinitiv”					Text 3
+dīversus, -a, -um	olika; vänd åt olika håll	sv. diverse; eng. diverse		adj				Text 3
+prōlātiō, prōlātiōnis (f)	framförande, yttrande						yes	Text 3
+vocābulum, -ī (n)	ord, glosa	sv. vokabulär					yes	Text 3
+sit	den/det är		presens konjunktiv av est (den/det är)				yes	Text 3
+dīvīsus, -a, -um	delad/delat		perfekt particip av dīvidō (dela)				yes	Text 3
+nātūrālis, -e	naturlig	sv. naturlig					yes	Text 3
+cum	med						yes	Text 3
+ille, illa, illud	det där; det längre bort		här: refereras till locūtiō grammatica			La-cls-ille.aac		Text 3
+potius	snarare; hellre			adv	adv. komp			Text 3
+artificiālis, -e	konstgjord; icke på naturlig väg	sv. artificiell		adj	efterklassisk		yes	Text 3
+existō, -stitī, - (3)	framträda; dyka upp	sv. existera						Text 3
+intentiō, intentiōnis (f)	avsikt	sv. intention						Text 3
+pertractō (1)	behandla; undersöka							Text 3
