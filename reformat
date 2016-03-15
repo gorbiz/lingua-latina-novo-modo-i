@@ -16,7 +16,7 @@ function reformat(data, cb) {
       r['Text 2'] = r['Text 2'].replace(/^\(de\)/,              '<color grey>(de)</color>');
       r['Text 2'] = `<size 1>${r['Text 2']}</size><br><br>`
                   + `${r['Text 4']}<br><br>`
-                  + `<size 0.75>${r['Text 3'].split('; ').join('<br>')}<br>`
+                  + `<size 0.75>${r['Text 3'].split('; ').join('<br>')}<br><br>`
                   + `<color grey>${r['Extra Info']}</color></size>`;
       delete r['Text 3'];
       delete r['Text 4'];
