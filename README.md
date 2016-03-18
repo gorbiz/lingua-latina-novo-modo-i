@@ -26,7 +26,7 @@ Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glos
  - [ ] Nona pars: 0%
  - [x] **Decima pars: 100%**
  - [x] **Undecima pars: 100%** (Bok II)
- - [ ] Duodecima pars: 0%
+ - [x] **Duodecima pars: 100%**
  - [ ] Tertia decima pars: 0%
  - [ ] Quarta decima pars: 0%
  - [ ] Quinta decima pars: 0%
