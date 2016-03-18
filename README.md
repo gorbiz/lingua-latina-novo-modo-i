@@ -15,8 +15,8 @@ Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glos
 ## Vad är klart?
 
 ### Latin → Svenska
- - [x] Prima pars: 100%
- - [x] Secunda pars: 100%
+ - [x] **Prima pars: 100%**
+ - [x] **Secunda pars: 100%**
  - [ ] Tertia pars: 0%
  - [ ] Quarta pars: 0%
  - [ ] Quinta pars: 0%
@@ -24,8 +24,8 @@ Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glos
  - [ ] Septima pars: 0%
  - [ ] Octava pars: 0%
  - [ ] Nona pars: 0%
- - [x] Decima pars: 100%
- - [x] Undecima pars: 100% (Bok II)
+ - [x] **Decima pars: 100%**
+ - [x] **Undecima pars: 100%** (Bok II)
  - [ ] Duodecima pars: 0%
  - [ ] Tertia decima pars: 0%
  - [ ] Quarta decima pars: 0%
