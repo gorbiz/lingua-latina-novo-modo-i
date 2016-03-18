@@ -26,8 +26,16 @@ Flashcards för Appen [Flashcards Delux](http://flashcardsdeluxe.com/), med glos
  - [ ] Nona pars: 0%
  - [x] Decima pars: 100%
 
- - [ ] Undecima pars (bok II): 0%
- - [ ] Resten av bok II: 0%
+ - [x] Undecima pars: 100% (Bok II)
+ - [ ] Duodecima pars: 0%
+ - [ ] Tertia decima pars: 0%
+ - [ ] Quarta decima pars: 0%
+ - [ ] Quinta decima pars: 0%
+ - [ ] Sexta decima pars: 0%
+ - [ ] Septima decima pars: 0%
+ - [ ] Duodevicesima pars: 0%
+ - [ ] Undevicesima pars: 0%
+ - [ ] Vicesima pars: 0%
 
 ### Svenska → Latin
 Det går att ställa in i appen, men blir det bra nog?  
