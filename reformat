@@ -22,7 +22,7 @@ function reformat(data, cb) {
       delete r['Text 4'];
       delete r['Extra Info'];
 
-      r['Sound 2'] = r['Sound 4']
+      r['Sound 1'] = r['Sound 4']
       delete r['Sound 4'];
       return r;
     });
